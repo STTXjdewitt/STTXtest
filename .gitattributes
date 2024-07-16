@@ -1,0 +1,2 @@
+.DoNotDeleteDummyFile filter=lfs diff=lfs merge=lfs -text
+*.js -text lockable
